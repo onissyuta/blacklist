@@ -5,4 +5,3 @@
 /.*(geinou).*/
 /.*(matome).*/
 /.*(sokuhou).*/
-/.*(youtube).*/

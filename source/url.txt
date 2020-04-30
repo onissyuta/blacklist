@@ -69,7 +69,6 @@
 *://alwaysnewstrend.com/*
 *://amaitime.com/*
 *://ambersaezuri.6fortune.com/*
-*://ameblo.jp/*
 *://amedamaboss.com/*
 *://amg-breakfree.com/*
 *://ami-diary.net/*
@@ -2036,4 +2035,4 @@
 *://zubatopi.net/*
 *://zuboren.com/*
 *://zuckyzczc.com/*
-*://zyouhoutuuuu.click/* 
+*://zyouhoutuuuu.click/*
