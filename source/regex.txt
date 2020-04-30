@@ -1,7 +1,0 @@
-/.*(2ch).*/
-/.*(5ch).*/
-/.*(geinou).*/
-/.*(entame).*/
-/.*(geinou).*/
-/.*(matome).*/
-/.*(sokuhou).*/
