@@ -4,3 +4,4 @@
 /.*(matome).*/
 /.*(entame).*/
 /.*(geinou).*/
+/.*(youtuber).*/
