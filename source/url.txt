@@ -601,4 +601,3 @@
 /.*(geinou).*/
 /.*(matome).*/
 /.*(sokuhou).*/
-*://noma66.com/*
