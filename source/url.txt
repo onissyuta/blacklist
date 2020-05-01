@@ -465,6 +465,7 @@
 *://tonatore.com/*
 *://topigoo.com/*
 *://topitane.net/*
+*://torasan1.com/*
 *://toreosa.green/*
 *://toretateblog.com/*
 *://traditionaliconography.com/*
