@@ -602,3 +602,4 @@
 /.*(matome).*/
 /.*(sokuhou).*/
 *://noma66.com/*
+*://entamix777.com/*
