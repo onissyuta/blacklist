@@ -601,3 +601,4 @@
 /.*(geinou).*/
 /.*(matome).*/
 /.*(sokuhou).*/
+*://entamix777.com/*
